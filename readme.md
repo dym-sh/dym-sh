@@ -1,21 +1,15 @@
-# Dym Sohin
-> drawings, ideas, programmings, humors
-
-## occupation
-🦾🤡 webmain
-
-## mental portrait
-INTJ – calm observational technology professor
-
-## professional skills
+### professional skills
 - proficient in JS, CSS and SVG
 - deeply involved with interfaces
 - mostly average in everything else
 
-## speaking
+### mental portrait
+INTJ – calm observational technology professor
+
+### speaking
 eng, ger, rus
 
-## interests include
+### interests include
 colors, comics, psytrance, cyber
 
 ----
