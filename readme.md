@@ -10,7 +10,7 @@ INTJ – calm observational technology professor
 eng, ger, rus
 
 ### interests include
-colors, comics, psytrance, cyber
+colors, comics, comedy, psytrance, cyber
 
 ----
 
