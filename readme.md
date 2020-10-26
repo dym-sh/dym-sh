@@ -3,5 +3,11 @@
 - deeply involved with interfaces
 - mostly average in everything else
 
-### more info
-- [dym.sh/about](https://dym.sh/about)
+### mental portrait
+INTJ: calm observational technology professor
+
+### speaking
+eng, ger, rus
+
+### interests include
+ui, design, code, comics, comedy, colors, psytrance, cyber
