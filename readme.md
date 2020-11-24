@@ -10,5 +10,6 @@ INTJ: calm observational technology professor
 eng, ger, rus
 
 ### interests include
-ui, code, comics, comedy,
-colors, psytrance, dune, cyberpunk
+ui, design, code, comics, comedy,
+colors, pixels, fractals, datavis,
+webdev, dune, cyberpunk
