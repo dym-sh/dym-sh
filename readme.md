@@ -1,15 +1,15 @@
-### skills
-- proficient in JS, CSS and SVG
-- deeply involved with interfaces
-- mostly average in everything else
+### existing skills
+- specialize in \*UI
+- proficient in HTML, CSS, JS, and SVG
+- do sketches, drawings, and prototypes
 
-### mental portrait
-INTJ: calm observational technology professor
+### prospective learning
+flutter with dart
 
-### speaking
+### spoken languages
 eng, ger, rus
 
 ### interests include
-ui, design, code, comics, comedy,
-colors, pixels, fractals, datavis,
+ui, design, code, comics, comedy, \
+colors, pixels, fractals, datavis, \
 webdev, dune, cyberpunk
