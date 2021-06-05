@@ -1,13 +1,19 @@
+<img height='400' align='right' src='preview.png'>
+
+
 ### existing skills
-- specialize in \*UI
+- specializing in \*UI
 - proficient in HTML, CSS, JS, and SVG
-- do sketches, drawings, and prototypes
+- sketches, drawings, prototypes
+
 
 ### prospective learning
 flutter with dart
 
+
 ### spoken languages
-eng, ger, rus
+{eng}, {ger}, {rus}
+
 
 ### interests include
 ui, design, code, comics, comedy, \

@@ -1,0 +1,19 @@
+[content]
+title = 'coding profile'
+slug = 'profile-code'
+description = 'extended bio for coding profile'
+tags = [ 'about-me', 'profile' ]
+license = 'MIT'
+
+[data]
+raw = './readme.md'
+
+# [sync]
+# github = 'https://github.com/dym-sh/dym-sh'
+# gitlab = 'https://gitlab.com/dym-sh/dym-sh'
+
+[mirrors]
+_canonical = 'https://dym.sh/profile-code'
+github = 'https://github.com/dym-sh/dym-sh'
+gitlab = 'https://gitlab.com/dym-sh/dym-sh'
+codepen = 'https://codepen.io/dym-sh/pen/zYZjozZ/left/?editors=1000'
